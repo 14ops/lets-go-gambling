@@ -1,8 +1,0 @@
-{
-  "board_size": 4,
-  "mine_count": 2,
-  "bet_amount": 0.5,
-  "strategy": "Lelouch (Calculated)",
-  "mode": "simulation"
-}
-
