@@ -2,7 +2,7 @@
 
 **A Research + Engineering Hybrid Project**
 
-*Author: Manus AI*  
+*Author: shihab belal*  
 *Project Type: Academic Research & Software Engineering*  
 *Technologies: Java GUI + Python Backend*  
 *Domain: Probability Theory, Game Theory, Automation*
